@@ -1,0 +1,6 @@
+{
+  "name": "3Д-Экшон: Суть Такова",
+  "description": "Легендарная 3D-игра мечты: лесные эльфы, охрана дворца, злодей, деревянные домики, густой лес и грабёж корованов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
