@@ -18,12 +18,12 @@
 Фразы **«корованы»**, **«набигают»**, **«домики деревяные»** и **«джва года ждал»** вошли в культурный код целого поколения разработчиков и геймеров. Десятки студий годами вставляли отсылки на корованы в свои релизы, но полноценной игры по оригинальному ТЗ так и не выходило.
 
 **Спустя джвадцать лет ожидания свершилось:**  
-Мы скормили канонический текст Кирилла без изменений в **Google AI Studio** ([aistudio.google.com](https://aistudio.google.com)), и нейросеть сгенерировала полноценный 3D-экшон на **React + Three.js** с полным соблюдением всех пунктов письма!
+Я скормил канонический текст Кирилла без изменений в **Google AI Studio** ([aistudio.google.com](https://aistudio.google.com)), и нейросеть сгенерировала полноценный 3D-экшон на **React + Three.js** с полным соблюдением всех пунктов письма!
 
 ### English
 In the early 2000s on Russian gaming forums, a user named **Kirill** posted an infamous, hilariously misspelled pitch for his dream video game: a *3D action game* featuring wood elves in wooden houses, palace guards, a villain, dense forests, soldiers raiding the huts, and most importantly: **the ability to rob caravans** (*"грабить корованы"*), a game he had been waiting *"two [джва] years for"*.
 
-It became the #1 legendary gaming meme in the Russian-speaking web. Over 20 years later, we fed the exact original Russian prompt into **Google AI Studio** ([aistudio.google.com](https://aistudio.google.com)) — and it actually built the entire working 3D game in WebGL / Three.js!
+It became the #1 legendary gaming meme in the Russian-speaking web. Over 20 years later, I fed the exact original Russian prompt into **Google AI Studio** ([aistudio.google.com](https://aistudio.google.com)) — and it actually built the entire working 3D game in WebGL / Three.js!
 
 ---
 
@@ -90,7 +90,7 @@ It became the #1 legendary gaming meme in the Russian-speaking web. Over 20 year
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/<your-username>/3D-acton.git
+git clone https://github.com/Evgenii-Zinner/3D-acton.git
 cd 3D-acton
 
 # 2. Установить зависимости
