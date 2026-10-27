@@ -1,5 +1,8 @@
 # 🌲 3Д-Экшон: Суть Такова 🐪
 
+> [!NOTE]
+> **Project Archived & Completed**: This repository was a fun Google AI Studio experiment bringing the legendary Runet meme to life in 3D. The experiment is complete and officially archived.
+
 > *«Здраствуйте. Я, Кирилл. Хотел бы чтобы вы сделали игру, 3Д-экшон суть такова…  
 > Пользователь может играть лесными эльфами, охраной дворца и злодеем.  
 > И если пользователь играет эльфами то эльфы в лесу, домики деревяные набигают солдаты дворца и злодеи.  
